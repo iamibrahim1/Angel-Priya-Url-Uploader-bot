@@ -84,7 +84,7 @@ async def start(bot, update):
                 [
                     [InlineKeyboardButton("⭑┗━━┫𝙊𝙬𝙣𝙚𝙧 ┣━━┛⭑", url="https://t.me/hater786")],
                     [
-                        InlineKeyboardButton("⚡️ 𝘾𝙝𝙖𝙣𝙣𝙚𝙡", url="https://t.me/real13xx"),,
+                        InlineKeyboardButton("⚡️ 𝘾𝙝𝙖𝙣𝙣𝙚𝙡", url="https://t.me/real13xx"),
                     ],
                     [InlineKeyboardButton("⭑💢 𝙎𝙤𝙘𝙞𝙖𝙡 💢⭑", url="https://wa.link/mgcx1z")],
                 ]
